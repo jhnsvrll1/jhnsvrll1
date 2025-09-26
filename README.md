@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Johannes Verrel](github-header-banner2.png)
 
 
